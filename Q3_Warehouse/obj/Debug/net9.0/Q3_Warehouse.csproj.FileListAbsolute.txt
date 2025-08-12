@@ -1,0 +1,15 @@
+D:\dcit318-assignment3-11288954\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.exe
+D:\dcit318-assignment3-11288954\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.deps.json
+D:\dcit318-assignment3-11288954\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.runtimeconfig.json
+D:\dcit318-assignment3-11288954\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.dll
+D:\dcit318-assignment3-11288954\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.pdb
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.AssemblyInfoInputs.cache
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.AssemblyInfo.cs
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.sourcelink.json
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.dll
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\refint\Q3_Warehouse.dll
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.pdb
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.genruntimeconfig.cache
+D:\dcit318-assignment3-11288954\Q3_Warehouse\obj\Debug\net9.0\ref\Q3_Warehouse.dll
