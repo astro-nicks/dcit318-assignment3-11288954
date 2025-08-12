@@ -1,0 +1,15 @@
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\bin\Debug\net9.0\Q4_GradingSystem.exe
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\bin\Debug\net9.0\Q4_GradingSystem.deps.json
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\bin\Debug\net9.0\Q4_GradingSystem.runtimeconfig.json
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\bin\Debug\net9.0\Q4_GradingSystem.dll
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\bin\Debug\net9.0\Q4_GradingSystem.pdb
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.AssemblyInfoInputs.cache
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.AssemblyInfo.cs
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.sourcelink.json
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.dll
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\refint\Q4_GradingSystem.dll
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.pdb
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\Q4_GradingSystem.genruntimeconfig.cache
+D:\dcit318-assignment3-11288954\Q4_GradingSystem\obj\Debug\net9.0\ref\Q4_GradingSystem.dll
