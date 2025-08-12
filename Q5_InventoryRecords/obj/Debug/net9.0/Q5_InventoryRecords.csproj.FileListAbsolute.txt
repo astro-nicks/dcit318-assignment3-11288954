@@ -1,0 +1,15 @@
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.AssemblyInfoInputs.cache
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.AssemblyInfo.cs
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.sourcelink.json
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\bin\Debug\net9.0\Q5_InventoryRecords.exe
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\bin\Debug\net9.0\Q5_InventoryRecords.deps.json
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\bin\Debug\net9.0\Q5_InventoryRecords.runtimeconfig.json
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\bin\Debug\net9.0\Q5_InventoryRecords.dll
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\bin\Debug\net9.0\Q5_InventoryRecords.pdb
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.dll
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\refint\Q5_InventoryRecords.dll
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.pdb
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\Q5_InventoryRecords.genruntimeconfig.cache
+D:\dcit318-assignment3-11288954\Q5_InventoryRecords\obj\Debug\net9.0\ref\Q5_InventoryRecords.dll

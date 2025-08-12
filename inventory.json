@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB Cable",
+    "Quantity": 30,
+    "DateAdded": "2025-08-12T10:56:21.0330967+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Notebook",
+    "Quantity": 100,
+    "DateAdded": "2025-08-10T10:56:21.0395807+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Pen",
+    "Quantity": 200,
+    "DateAdded": "2025-08-11T10:56:21.0395908+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Kenkey",
+    "Quantity": 500,
+    "DateAdded": "2025-08-09T10:56:21.0395911+00:00"
+  }
+]
