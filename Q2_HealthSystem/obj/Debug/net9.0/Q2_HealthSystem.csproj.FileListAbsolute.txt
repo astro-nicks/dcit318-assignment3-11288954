@@ -1,0 +1,15 @@
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\bin\Debug\net9.0\Q2_HealthSystem.exe
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\bin\Debug\net9.0\Q2_HealthSystem.deps.json
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\bin\Debug\net9.0\Q2_HealthSystem.runtimeconfig.json
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\bin\Debug\net9.0\Q2_HealthSystem.dll
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\bin\Debug\net9.0\Q2_HealthSystem.pdb
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.AssemblyInfoInputs.cache
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.AssemblyInfo.cs
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.sourcelink.json
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.dll
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\refint\Q2_HealthSystem.dll
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.pdb
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\Q2_HealthSystem.genruntimeconfig.cache
+D:\dcit318-assignment3-11288954\Q2_HealthSystem\obj\Debug\net9.0\ref\Q2_HealthSystem.dll
